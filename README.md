@@ -50,5 +50,10 @@
 * Below is the histogram of summary of acceptance of coupons by variety of passengers.
 * Drivers have accepted Carryout, Cheap-Restaurants and Coffehouse coupons more when they are Alone and with Friends. They have accpeted the Bar coupons in majority only when they are alone.
 
-  ![](images/Coupon_varieties_counts.png) 
+  ![](images/Coupon_varieties_counts.png)
+
+* Female driver have rejected the coupons more than males in the order of Coffehouse, Bar, Restaurants and Carry-out.
+
+  ![](images/No_Acceptance_gender.png)
+  
 
