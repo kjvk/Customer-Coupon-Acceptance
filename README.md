@@ -56,4 +56,6 @@
 
   ![](images/No_Acceptance_gender.png)
   
+* Conclusion : Drivers have reacted differently in each scenario and hence cannot dtermine the exactly if the drivers have accpedted the coupon or not and also the driver data when they are travelling alone is more than any other variety.My recommendation is to gather more data with other varieties as well to avoid bias and get accurate prediction.
+  
 
